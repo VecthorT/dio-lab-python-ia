@@ -1,7 +1,8 @@
 import pandas as pd
 import openai
 import requests
-import json
+
+
 
 sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'
 openai_api_key = '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'
